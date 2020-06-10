@@ -13,6 +13,8 @@
     <ul>
         <li> 1808107010003 Nadya Nadhita </li>
         <li> 1808107010007 Jihan Mawaddah </li>
+		<li> 1808107010027 Zulfidiana </li>
+		<li> 1808107010037 Dinda Oktavia Randri </li>
         <li> 1808107010065 Miranda Fasya Ramadhan </li>
     <ul>
 
